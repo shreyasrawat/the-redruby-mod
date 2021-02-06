@@ -64,6 +64,7 @@ public class TheRedRuby implements ModInitializer {
                 FabricLootPoolBuilder poolBuilder2 = FabricLootPoolBuilder.builder()
                         .rolls(ConstantLootTableRange.create(1))
                         .with(LootTableEntry.builder(RUBY_BLOCK_LOOT_TABLE_ID));
+
                 supplier.withPool(poolBuilder2.build());
             }
         });

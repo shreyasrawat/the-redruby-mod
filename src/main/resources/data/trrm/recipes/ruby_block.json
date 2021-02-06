@@ -2,15 +2,12 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "rrr",
-    "rdr",
+    "rrr",
     "rrr"
   ],
   "key": {
     "r": {
       "item": "trrm:ruby"
-    },
-    "d": {
-      "item": "minecraft:diamond"
     }
   },
   "result": {
