@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "minecraft:emerald"
+  },
+  "result": "trrm:ruby",
+  "experience": 1.9,
+  "cookingtime": 70
+}
