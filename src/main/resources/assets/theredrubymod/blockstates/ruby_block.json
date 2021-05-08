@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "theredrubymod:block/ruby_block" }
+  }
+}

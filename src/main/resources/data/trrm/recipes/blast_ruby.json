@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "minecraft:emerald"
-  },
-  "result": "trrm:ruby",
-  "experience": 1.9,
-  "cookingtime": 40
-}
